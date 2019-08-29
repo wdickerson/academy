@@ -1,6 +1,7 @@
 # Welcome to Project Atlas
 
 This is a starting point for a front-end web application with an interactive map.
+Based on: https://leafletjs.com/examples/quick-start/
 
 ### In a folder called `atlas`,
 
@@ -75,6 +76,27 @@ body {
 /*  width: 300px;*/
 }
 ```
+
+## A quick intro
+
+### Useful features of text editors
+- quick access to many open files
+- language specific text highlighting
+- comment code with `cmd + /`
+- duplicate selections with `cmd + D`
+
+### Languages browsers speak
+- **`html`**: The content of the page
+- **`css`**: The style of the page
+- **`js`**: (javascript) For interactivity
+
+### Chrome Developer Tools (**`View -> Developer`**)
+- shows errors
+- view and edit css styles
+
+### Resources
+- W3 Schools
+- Stackoverflow
 
 
 ## CSS selectors
